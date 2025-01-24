@@ -1,0 +1,20 @@
+# Pastas e arquivos específicos do Eclipse
+.metadata/
+*.snap
+*.index
+*.resources
+*.history
+*.syncinfo*
+*.markers
+*.dat
+*.launch
+*.xmi
+.version*
+
+# Configurações de projetos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos gerados automaticamente
+bin/
